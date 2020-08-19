@@ -1,0 +1,20 @@
+{
+ "Stundent":[
+   {
+     "adress": "HaNoi",
+     "age": 21,
+     "name": "HieuThanh"
+   },
+   {
+     "adress": "ThaiBinh",
+     "age": 21,
+     "name": "VienTran"
+   },
+   {
+     "adress": "HaNoi",
+     "age": 21,
+     "name": "NamAnh"
+   }
+ ]
+}
+
